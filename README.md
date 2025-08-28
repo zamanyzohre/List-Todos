@@ -52,7 +52,7 @@
 ---
 
 ##  دمو و پیش نمایش:
-برای دیدن دمو <a href ="https://list-todos-one.vercel.app/todo">اینجا</a> را کلیک کنید
+برای دیدن دمو <a href ="https://list-todos-one.vercel.app">اینجا</a> را کلیک کنید
 
 ---
 
