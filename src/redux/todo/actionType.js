@@ -1,0 +1,7 @@
+export const GETTODOS = 'GETTODOS'
+export const LOADING = 'LOADING'
+export const GETERROR = 'GETERROR'
+export const FILTERTODO = 'FILTERTODO'
+export const ADDTODO = 'ADDTODO'
+export const DELETE_TODO = 'DELETE_TODO'
+export const UPDATE_TODO = 'UPDATE_TODO'
